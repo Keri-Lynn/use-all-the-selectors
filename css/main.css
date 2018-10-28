@@ -2,11 +2,7 @@ body {
   background-color: #fdf6e3;
 }
 
-header {
-  font-size: 1.5rem;
-}
-
-footer {
+header, footer {
   font-size: 1.5rem;
 }
 
@@ -20,10 +16,6 @@ nav ul {
 
 .wrapper {
   background-color: #eee8d5;
-}
-
-.wrapper > dfn {
- background-color: #b58900;
 }
 
 #contents, #favs, #facts, #types {
